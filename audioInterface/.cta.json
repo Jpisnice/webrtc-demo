@@ -1,0 +1,21 @@
+{
+  "initialized": true,
+  "mode": "file-router",
+  "projectName": "audioInterface",
+  "typescript": true,
+  "tailwind": true,
+  "git": true,
+  "addOnOptions": {},
+  "packageManager": "pnpm",
+  "install": true,
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "convex",
+    "start",
+    "tanstack-query",
+    "biome",
+    "eslint",
+    "nitro"
+  ]
+}
